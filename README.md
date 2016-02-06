@@ -10,4 +10,6 @@ How To Use
 
 * In your browser ```localhost:8080``` and modify glsl
 
+* For shader access/modify, please refer [GLSL in ThreeJS](http://thebookofshaders.com/04/)
+
 
