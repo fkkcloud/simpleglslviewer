@@ -1,5 +1,5 @@
 {
-  "name": "CNN",
+  "name": "SimpleGLSLViewer",
   "main": "server.js",
   "dependencies": {
     "body-parser": "~1.4.2",
